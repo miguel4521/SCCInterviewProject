@@ -5,7 +5,9 @@ A minimal api in C# that saves a list of favourite Star Wars planets.
 **Also includes a frontend web app to interact with the API.
 To open the web app, just open the base url.**
 
-To build the project, run `dotnet.run`
+To build the project, execute `dotnet run` in the command line
+
+The project uses .NET 8.0
 
 There is also a built version in `/bin/net8.0`
 
