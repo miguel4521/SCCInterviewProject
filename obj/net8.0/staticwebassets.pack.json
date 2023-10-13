@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\css\\main.90056834.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.90056834.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\css\\main.90056834.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.90056834.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\js\\787.4b52c43e.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\787.4b52c43e.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\js\\787.4b52c43e.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\787.4b52c43e.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\js\\main.68e106ca.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.68e106ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\js\\main.68e106ca.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.68e106ca.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel\\Projects\\SCCInterviewProject\\starwarsapi\\wwwroot\\static\\js\\main.68e106ca.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.68e106ca.js.map"
+    },
+    {
+      "Id": "obj\\\\\\net8.0\\staticwebassets\\msbuild.build.starwarsapi.props",
+      "PackagePath": "build\\starwarsapi.props"
+    },
+    {
+      "Id": "obj\\\\\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.starwarsapi.props",
+      "PackagePath": "buildMultiTargeting\\starwarsapi.props"
+    },
+    {
+      "Id": "obj\\\\\\net8.0\\staticwebassets\\msbuild.buildTransitive.starwarsapi.props",
+      "PackagePath": "buildTransitive\\starwarsapi.props"
+    },
+    {
+      "Id": "obj\\\\\\net8.0\\staticwebassets\\msbuild.starwarsapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
